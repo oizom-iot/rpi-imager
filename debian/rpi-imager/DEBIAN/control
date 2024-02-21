@@ -1,0 +1,12 @@
+Package: rpi-imager
+Version: 1.6.1
+Architecture: amd64
+Maintainer: Floris Bos <bos@je-eigen-domein.nl>
+Installed-Size: 1327
+Depends: libarchive13 (>= 3.0.4), libc6 (>= 2.14), libcurl4 (>= 7.16.2), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.12.2), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), qml-module-qtquick2, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtquick-templates2, qml-module-qtquick-window2, qml-module-qtgraphicaleffects, dosfstools, fdisk
+Recommends: udisks2
+Section: admin
+Priority: optional
+Homepage: https://www.raspberrypi.org/
+Description: Raspberry Pi imaging utility
+ Graphical user-interface to write disk images and format SD cards.

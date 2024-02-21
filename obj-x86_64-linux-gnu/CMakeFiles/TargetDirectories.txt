@@ -1,0 +1,8 @@
+/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/CMakeFiles/install/strip.dir
+/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/CMakeFiles/install/local.dir
+/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/CMakeFiles/install.dir
+/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/CMakeFiles/list_install_components.dir
+/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir
+/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/CMakeFiles/rpi-imager.dir
+/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/CMakeFiles/rpi-imager_autogen.dir

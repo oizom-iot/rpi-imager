@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/rpi-imager_autogen",
+	"CMAKE_BINARY_DIR" : "/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/oizom/Documents/rpi-imager",
+	"CMAKE_SOURCE_DIR" : "/home/oizom/Documents/rpi-imager",
+	"INCLUDE_DIR" : "/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/rpi-imager_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/rpi-imager_sk.qm",
+		"/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/rpi-imager_de.qm",
+		"/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/rpi-imager_it.qm",
+		"/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/rpi-imager_zh_cn.qm",
+		"/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/rpi-imager_en.qm",
+		"/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/rpi-imager_nl.qm",
+		"/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/rpi-imager_tr.qm",
+		"/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/rpi-imager_fr.qm"
+	],
+	"LOCK_FILE" : "/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/CMakeFiles/rpi-imager_autogen.dir/AutoRcc_translations_GJXGGJFIRE_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "translations" ],
+	"OUTPUT_CHECKSUM" : "GJXGGJFIRE",
+	"OUTPUT_NAME" : "qrc_translations.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/CMakeFiles/rpi-imager_autogen.dir/AutoRcc_translations_GJXGGJFIRE_Used.txt",
+	"SOURCE" : "/home/oizom/Documents/rpi-imager/obj-x86_64-linux-gnu/translations.qrc",
+	"VERBOSITY" : 1
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Oizom Imager
+Comment=Raspberry Pi Imager
+Icon=oizom-logo_128.png
+Exec=rpi-imager
+Categories=Utility
+StartupNotify=false

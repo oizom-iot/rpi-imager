@@ -1,0 +1,5 @@
+/usr/bin/rpi-imager
+/usr/share/icons/hicolor/128x128/apps/rpi-imager.png
+/usr/share/icons/hicolor/128x128/apps/oizom-logo_128.png
+/usr/share/applications/rpi-imager.desktop
+/usr/share/metainfo/rpi-imager.metainfo.xml

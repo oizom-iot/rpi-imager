@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oizom/Documents/rpi-imager/dependencies/sha256crypt/sha256crypt.c
+errno.h
+-
+limits.h
+-
+stdint.h
+-
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/param.h
+-
+sys/types.h
+-
+machine/endian.h
+-
+endian.h
+-
+

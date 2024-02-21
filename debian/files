@@ -1,0 +1,3 @@
+rpi-imager-dbgsym_1.6.1_amd64.ddeb debug optional automatic=yes
+rpi-imager_1.6.1_amd64.buildinfo admin optional
+rpi-imager_1.6.1_amd64.deb admin optional
